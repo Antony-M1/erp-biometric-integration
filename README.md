@@ -1,4 +1,6 @@
 # erp-biometric-integration
+![wmw-rvmh-nyh - May 30, 2022 6](https://github.com/Antony-M1/erp-biometric-integration/assets/96291963/c64c1f76-679d-4d20-9774-b5a667a4359c)
+
 
 Bio-Metric Issue fixing
 Note:- if the command is not working add sudo in front of the command
