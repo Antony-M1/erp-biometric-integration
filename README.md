@@ -59,6 +59,7 @@ Bio-Metric Related Links
 * https://github.com/frappe/biometric-attendance-sync-tool
 * https://github.com/frappe/biometric-attendance-sync-tool#cli
 * https://github.com/frappe/biometric-attendance-sync-tool/releases
+* https://docs.erpnext.com/docs/v12/user/manual/en/setting-up/articles/integrating-erpnext-with-biometric-attendance-devices
 
 
 	
