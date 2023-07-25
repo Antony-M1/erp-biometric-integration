@@ -56,9 +56,9 @@ Kill process
 
 
 Bio-Metric Related Links
-https://github.com/frappe/biometric-attendance-sync-tool
-https://github.com/frappe/biometric-attendance-sync-tool#cli
-https://github.com/frappe/biometric-attendance-sync-tool/releases
+* https://github.com/frappe/biometric-attendance-sync-tool
+* https://github.com/frappe/biometric-attendance-sync-tool#cli
+* https://github.com/frappe/biometric-attendance-sync-tool/releases
 
 
 	
