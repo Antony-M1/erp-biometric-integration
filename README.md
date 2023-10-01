@@ -65,5 +65,15 @@ Bio-Metric Related Links
 
 
 	
+# Windows
 
+Find the Process `id`
+```
+tasklist | findstr python
+```
+
+Kill Task
+```
+taskkill /F /PID <TASK_ID>
+```
 
