@@ -45,5 +45,12 @@ Set WshShell = Nothing
 
 ```
 
-add the file in the `startup` folder in windows
+add the file in the `startup` folder in windows.
+
+With the file location open, press the `Windows logo key + R`, type `shell:startup`, then select OK. This opens the Startup folder.
+
+in the `local_config.py` file change the `LOGS_DIRECTORY` with the full path with `r` string
+```
+LOGS_DIRECTORY = r"C:\Users\my-user\erp_biometric\logs"
+```
 
